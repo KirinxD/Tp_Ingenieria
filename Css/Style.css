@@ -1,0 +1,67 @@
+body{
+    background-image: linear-gradient(to right top, #7c6bcd, #7872d8, #7279e3, #6a81ee, #6088f9);
+    font: 100% sans-serif;
+}
+#menu{
+    background-color: #424242;
+    height: 10%;
+    text-align:start;
+    color: white; 
+    font-weight: bold;
+    font: oblique bold 120% cursive;
+}
+#container{    
+    float: left;
+    width:50%;
+    margin-top:30px;
+    margin-left:20px;
+}
+#Listado_productos{
+    display: inline-block;
+    margin-top:30px;
+    margin-left:30px;
+    width:30%; 
+    overflow: auto;
+    height: 80%;
+}
+.button {
+    background-color: #28AF2C;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 5px;
+}
+.button:hover{background:#059209;
+    cursor:url('cursor2.cur');}
+label{
+    
+    color: white; 
+    font-weight: bold;
+}
+.datos_Articulo{
+    margin-top:10px;
+}
+h2{
+    margin: 10px;
+    color: white; 
+    font-weight: bold;
+}
+#icon{      
+    position:relative;
+    margin-bottom: 10px;
+}
+#holi{
+    display: inline-block;  
+    margin-top: 7px;
+    margin-left: 3px;
+}
+#button_cargarAviso{
+    margin-top:20px;
+}
+#Listado_productos{
+    background-color: white;
+}
