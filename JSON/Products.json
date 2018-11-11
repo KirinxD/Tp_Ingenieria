@@ -1,0 +1,36 @@
+{
+    "Productos":[
+        {
+            "name": "Adidas llantulis",
+            "category": "deportivo",
+            "price":2999.00,
+            "description":"llantulis",
+            "latitude": 300.31,
+            "longitude": 300.25
+        },
+        {
+            "name": "Nike llantas",
+            "category": "deportivo",
+            "price":3999.00,
+            "description":"llantulis",
+            "latitude": 20.35,
+            "longitude": 300.25
+        },
+        {
+            "name": "pizza",
+            "category": "comida",
+            "price":200.50,
+            "description":"rico rico",
+            "latitude": 17.35,
+            "longitude": 18.25
+        },
+        {
+            "name": "Empanadas",
+            "category": "Comida",
+            "price":24.00,
+            "description":"rico rico",
+            "latitude": 17.35,
+            "longitude": 18.25
+        }]
+
+}
